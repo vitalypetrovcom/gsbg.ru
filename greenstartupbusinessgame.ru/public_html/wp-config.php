@@ -22,7 +22,7 @@
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
 define( 'WPCACHEHOME', '/home/i/i91606qe/greenstartupbusinessgame.ru/public_html/wp-content/plugins/wp-super-cache/' );
-define('DB_NAME', 'i91606qe_wp1');
+define('DB_NAME', '-');
 
 /** MySQL database username */
 define('DB_USER', '_name');
